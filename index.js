@@ -4,6 +4,7 @@ const { PrismaClient } = require('@prisma/client');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 // Load environment variables from .env file.
+
 dotenv.config();
 
 const app = express();
