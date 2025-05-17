@@ -21,7 +21,7 @@ This project is a full-stack application that allows users to interact with a My
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Piyush2510verma/SQL_Agent
     cd SQL-agent
     ```
 2.  **Set up Environment Variables:**
